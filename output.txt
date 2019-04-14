@@ -1,0 +1,5 @@
+1000             15 seconds
+10000             14 seconds
+100000             17 seconds
+500000             20 seconds
+1000000             24 seconds
